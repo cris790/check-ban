@@ -6,7 +6,7 @@ app = Flask(__name__)
 
 # Chaves API válidas e seus status
 VALID_API_KEYS = {
-    "ZD": "active"
+    "STK": "active"
 }
 
 def validate_api_key(api_key):
